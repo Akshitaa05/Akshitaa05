@@ -19,7 +19,7 @@ I'm an enthusiastic beginner developer diving into the world of coding. I'm exci
 
 ### 📫 How to Reach Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshita-baweja-76a320251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](akshitabaweja567@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshitabaweja567@gmail.com)
 
 ### Quote of the day
 "The journey of a thousand miles begins with one step." – Lao Tzu
