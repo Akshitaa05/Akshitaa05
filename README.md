@@ -5,7 +5,6 @@ I'm an enthusiastic beginner developer diving into the world of coding. I'm exci
 
 - 🎓 Pursuing a degree in Computer Science with a specialization in AI/ML.
 - 🤖 Fascinated by how machines can learn and make intelligent decisions.
-- 🌱 Currently exploring deep learning, natural language processing, and computer vision along with working on improving my skills in HTML, CSS, and JavaScript.
 - 🔍 I'm interested in building simple yet fun projects to enhance my understanding.
 - 🧠 Always curious, always learning – one tutorial at a time!
 - 🌐 Building cool projects and sharing them with the world.
