@@ -9,8 +9,6 @@ I'm an enthusiastic beginner developer diving into the world of coding. I'm exci
 - 🧠 Always curious, always learning – one tutorial at a time!
 - 🌐 Building cool projects and sharing them with the world.
 
-### 📚 Current Projects
-🤖 AI Chatbot: Developing a chatbot using NLP to assist with FAQs. [Check it out!](https://github.com/Akshitaa05/Chatbot)
 
 ### 🌈 Fun Facts
 - 📺 Binge-watcher – always up for a good sci-fi series.
