@@ -11,7 +11,7 @@ I'm an enthusiastic beginner developer diving into the world of coding. I'm exci
 
 
 ### 🌈 Fun Facts
-- 📺 Binge-watcher – always up for a good sci-fi series.
+- 📺 Binge-watcher – always up for a movie/series.
 - 📚 Read a book every month.
 - 🍕 I can eat pizza for breakfast, lunch, and dinner.
 
